@@ -3,6 +3,6 @@ Repo for code created for CFA Society of Minnesota's "Practical Applications of 
 
 If you decide to build upon this, I would love to hear about your thoughts and aspirations!
 
-If you found this work useful or insightful, please consider buying me a coffee.
+If you found this work useful or insightful, please consider buying me a coffee: https://www.buymeacoffee.com/lbunting
 
 This code is presented as-is with no warranties. I am not liable for the use or misuse of any code in this repo.
